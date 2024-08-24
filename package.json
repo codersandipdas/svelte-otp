@@ -39,13 +39,13 @@
   "svelte": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "type": "module",
-  "homepage": "https://github.com/codersandip/svelte-otp",
+  "homepage": "https://github.com/codersandipdas/svelte-otp",
   "bugs": {
-    "url": "https://github.com/codersandip/svelte-otp/issues"
+    "url": "https://github.com/codersandipdas/svelte-otp/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codersandip/svelte-otp.git"
+    "url": "git+hhttps://github.com/codersandipdas/svelte-otp.git"
   },
   "keywords": [
     "svelte",

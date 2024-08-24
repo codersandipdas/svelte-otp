@@ -3,9 +3,8 @@
 A Svelte component for creating OTP (One-Time Password) inputs. This component allows for customizable OTP input length, supports different input types, and handles various user interactions such as input, paste, and backspace events.
 
 ## Screenshot
+
 <img width="771" alt="Screenshot at Aug 24 20-17-52" src="https://github.com/user-attachments/assets/2d7a39d7-cf35-450b-b094-eeed9413db34">
-
-
 
 ## Features
 
@@ -88,7 +87,7 @@ To build and test the package locally:
 ### Clone the Repository:
 
 ```bash
-git clone https://github.com/codersandip/svelte-otp.git
+git clone https://github.com/codersandipdas/svelte-otp.git
 cd svelte-otp
 ```
 
@@ -118,7 +117,7 @@ npm link @codersandip/svelte-otp
 
 ## Contributing
 
-Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request on [GitHub](https://github.com/codersandip/svelte-otp).
+Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request on [GitHub](https://github.com/codersandipdas/svelte-otp).
 
 ## License
 
