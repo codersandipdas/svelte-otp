@@ -2,6 +2,11 @@
 
 A Svelte component for creating OTP (One-Time Password) inputs. This component allows for customizable OTP input length, supports different input types, and handles various user interactions such as input, paste, and backspace events.
 
+## Screenshot
+<img width="771" alt="Screenshot at Aug 24 20-17-52" src="https://github.com/user-attachments/assets/2d7a39d7-cf35-450b-b094-eeed9413db34">
+
+
+
 ## Features
 
 - **Customizable OTP Input Length**: Set the number of OTP input fields.
