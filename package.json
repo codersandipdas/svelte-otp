@@ -1,5 +1,5 @@
 {
-  "name": "@codersandipdas/svelte-otp",
+  "name": "@codersandip/svelte-otp",
   "version": "0.0.1",
   "description": "Simple component to assign scores based on stars.",
   "scripts": {

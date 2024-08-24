@@ -1,4 +1,4 @@
-# `@codersandipdas/svelte-otp`
+# `@codersandip/svelte-otp`
 
 A Svelte component for creating OTP (One-Time Password) inputs. This component allows for customizable OTP input length, supports different input types, and handles various user interactions such as input, paste, and backspace events.
 
@@ -15,13 +15,13 @@ A Svelte component for creating OTP (One-Time Password) inputs. This component a
 To install the package, use npm or yarn:
 
 ```bash
-npm install @codersandipdas/svelte-otp
+npm install @codersandip/svelte-otp
 ```
 
 or
 
 ```bash
-yarn add @codersandipdas/svelte-otp
+yarn add @codersandip/svelte-otp
 ```
 
 ## Usage
@@ -30,7 +30,7 @@ Import the OTP component into your Svelte application and use it as follows:
 
 ```svelte
 <script>
-  import OtpInput from '@codersandipdas/svelte-otp';
+  import OtpInput from '@codersandip/svelte-otp';
 
   let otpValue = '';
 
@@ -108,7 +108,7 @@ npm link
 ### Use the Linked Package in Your Svelte Project:
 
 ```bash
-npm link @codersandipdas/svelte-otp
+npm link @codersandip/svelte-otp
 ```
 
 ## Contributing
