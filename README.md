@@ -30,7 +30,7 @@ Import the OTP component into your Svelte application and use it as follows:
 
 ```svelte
 <script>
-  import OtpInput from '@codersandip/svelte-otp';
+  import {OtpInput} from '@codersandip/svelte-otp';
 
   let otpValue = '';
 
