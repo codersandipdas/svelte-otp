@@ -111,6 +111,7 @@
     font-size: 18px;
     border: 1px solid #ccc;
     border-radius: 4px;
+    flex: 1;
   }
 
   .otp-input:focus {
